@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667315705567",
+    "project_id": "x-arcanum-145609"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667315705567:android:38d9352af80becd9",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.google_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667315705567-phdafbui2vc1liq5j9p62vm5ffv0ndvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.google_login",
+            "certificate_hash": "A5908B4F3A46DEEA0AAFC595463DAC25B592CA24"
+          }
+        },
+        {
+          "client_id": "667315705567-tlc4tne9ifiode95amniqhse48jrdsqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssIy0pjp15OU94QK5pxAgFy6n9KdJEv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
